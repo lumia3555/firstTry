@@ -1,0 +1,41 @@
+Some examples that might be useful
+
+1.	scroll loadding
+
+	yulibao-merchants-center/recent/bankBranch/src/pages/_subBranchPicker/App.js
+
+2.	
+
+
+---------------
+
+Q
+
+1.	与容器相关联的在哪里配置？在哪里引入？
+
+		脚手架自动帮你引入，只要在容器里启动就有，左上角返回按钮是全自动
+
+		中间的title需要在lengjing中改写
+
+		右上角的信息需要自己配置(默认是分享)
+
+2.	关于埋点 - 有数应该不用考虑，因为只是展示数据
+
+3.	如何跳转到其他页面的？实现同时测试多个页面
+
+4.	账单页面，账单类型点击展开多种可选项的页面位置
+
+	
+----------------
+
+BASE:
+
+	 datepicker + 账户类型
+
+	 熟悉一下一级list展示二级list
+
+	 收支查询？限额总览？
+
+	 charles
+
+	 source tree
